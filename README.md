@@ -12,3 +12,7 @@ This dataset is only intended for use by universities and research institutions 
 该数据集禁止用于任何商业目的，不提供任何形式的商业授权。
 
 This dataset is prohibited from being used for any commercial purposes and does not provide any form of commercial authorization.
+
+## License
+This project is licensed under the GNU General Public License v3.0.  
+See the [LICENSE](./LICENSE) file for more details.
