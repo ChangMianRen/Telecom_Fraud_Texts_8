@@ -1,9 +1,9 @@
 # Telecom_Fraud_Texts_8
 Eight category fraud dataset.
 
-该论文尚未发表，您可以查看另一个仓库。
+该论文目前被icic2025录用，还没有正式线上出版。
 
-The paper has not been published yet, you can check another repository.
+The paper is currently accepted by ICIC2025 and has not been officially published online yet.
 
 该数据集仅供以下用途使用： 高校、科研机构在科学研究中使用。
 
