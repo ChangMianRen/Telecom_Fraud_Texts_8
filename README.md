@@ -2,9 +2,9 @@
 八分类诈骗数据集
 Eight category fraud dataset.
 
-论文正在投稿，我们相信在不久后会被期刊或会议录用。
+论文已经发表，如有需要请引用：Jiang L, Zhang C, Qin X, et al. Telecom Fraud Recognition Based on Large Language Model Neuron Selection[J]. Mathematics, 2025, 13(11): 1784.
 
-The paper is currently being submitted and we believe it will be accepted by a journal or conference soon.
+The paper has been published, please cite if necessary:Jiang L, Zhang C, Qin X, et al. Telecom Fraud Recognition Based on Large Language Model Neuron Selection[J]. Mathematics, 2025, 13(11): 1784.
 
 该数据集仅供以下用途使用： 高校、科研机构在科学研究中使用。
 
