@@ -4,7 +4,7 @@ Eight category fraud dataset.
 
 论文已经发表，如有需要请引用：Jiang L, Zhang C, Qin X, et al. Telecom Fraud Recognition Based on Large Language Model Neuron Selection[J]. Mathematics, 2025, 13(11): 1784.
 
-The paper has been published, please cite if necessary:Jiang L, Zhang C, Qin X, et al. Telecom Fraud Recognition Based on Large Language Model Neuron Selection[J]. Mathematics, 2025, 13(11): 1784.
+The paper has been published, please cite if necessary: Jiang L, Zhang C, Qin X, et al. Telecom Fraud Recognition Based on Large Language Model Neuron Selection[J]. Mathematics, 2025, 13(11): 1784.
 
 该数据集仅供以下用途使用： 高校、科研机构在科学研究中使用。
 
